@@ -3,5 +3,6 @@ public class C01 {
         System.out.println("colobration");
         System.out.println("colobration2");
         System.out.println("colobration2 burak");
+        System.out.println("colobration2 burak stash");
     }
 }
